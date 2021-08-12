@@ -34,15 +34,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/"
+    "url": "git+https://github.com/suryaFais137/BotByMr.Attack"
   },
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author":  "Mr.Attack",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/issues"
+    "url": "https://github.com/suryaFais137/BotByMr.Attack/issues"
   },
-  "homepage": "https://github.com/#readme"
+  "homepage": "https://github.com/suryaFais137/BotByMr.Attack#readme"
 }
