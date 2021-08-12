@@ -1,4 +1,4 @@
-## NAMA BOT
+## <• Bot By./Mr.Attack •>
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -16,8 +16,8 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install ffmpeg
 > pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/benisadewa/reuzsc
-> cd reuzsc
+> git clone https://github.com/suryaFais137/BotByMr.Attack
+> cd BotByMr.Attack
 > bash install.sh
 > node index.js
 ```
@@ -25,7 +25,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 # FITUR
 
-| KEADAAN       |               FITUR     |
+| KEADAAN       |    <• FITUR BOT BY MR.ATTACK •>     |
 | :-----------: | :--------------------------------:  |
 |       ✅       |    PANTUN                         |
 |       ✅       | ANIMEPICT                         |
@@ -43,7 +43,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 |       ✅       | QURAN                             |
 |       ✅       | KAMING SUN                        |
 
-ket : ✅ : aktif
+ket : ✅ : aktif cok
 
 
 
